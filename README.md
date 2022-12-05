@@ -1,1 +1,1 @@
-# Code-Review-Practice
+# Mini-Bootcamp
